@@ -10,4 +10,4 @@ A container image based on Red Hat UBI 8.7 minimal, with the latest Red Hat Open
 - yq
 
 ## Dockerfile
-The docker file can be found here: [https://github.com/rampadc/ibm-pak-ubi](https://github.com/rampadc/ibm-pak-ubi)
+The docker file can be found here: [https://github.com/rampadc/ibm-pak-ubi](https://github.com/cloud-native-toolkit/ibm-pak-ubi)
